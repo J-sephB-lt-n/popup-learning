@@ -1,0 +1,14 @@
+[project]
+name = "popup-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ipython>=8.31.0",
+    "ruff>=0.9.2",
+    "wat-inspector>=0.4.3",
+]
