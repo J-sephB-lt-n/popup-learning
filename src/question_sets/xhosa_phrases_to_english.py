@@ -11,4 +11,14 @@ xhosa_phrases_to_english = (
             "Bheka phambili\nGo forward"
         ),
     ),
+    (
+        PopupMessage(
+            "Translate this Xhosa phrase to english", 
+            "Andisithethi isiXhosa"
+        ),
+        PopupMessage(
+            "Translate this Xhosa phrase to english", 
+            "Andisithethi isiXhosa\nI can't speak Xhosa"
+        ),
+    ),
 )

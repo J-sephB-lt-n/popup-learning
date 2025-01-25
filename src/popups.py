@@ -8,7 +8,7 @@ PopupMessage = namedtuple(
 )
 
 
-def show_messages(messages: list[PopupMessage]) -> None:
+def show_popup_messages(messages: list[PopupMessage]) -> None:
     """Shows `messages` sequentially as popup windows"""
     tk_root = tk.Tk()
     tk_root.withdraw()
