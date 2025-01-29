@@ -14,4 +14,11 @@ xhosa_phrases_to_english = (
             "Andisithethi isiXhosa\nI can't speak Xhosa",
         ),
     ),
+    (
+        PopupMessage("Translate this Xhosa phrase to english", "Yima apha"),
+        PopupMessage(
+            "Translate this Xhosa phrase to english",
+            "Yima apha\nStop here",
+        ),
+    ),
 )
