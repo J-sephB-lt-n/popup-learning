@@ -21,4 +21,25 @@ xhosa_phrases_to_english = (
             "Yima apha\nStop here",
         ),
     ),
+    (
+        PopupMessage("Translate this Xhosa phrase to english", "Biza ugqirha"),
+        PopupMessage(
+            "Translate this Xhosa phrase to english",
+            "Biza ugqirha\nGet/call/summon a doctor!",
+        ),
+    ),
+    (
+        PopupMessage("Translate this Xhosa phrase to english", "Uphethwe yimincili"),
+        PopupMessage(
+            "Translate this Xhosa phrase to english",
+            "uphethwe yimincili\nS/he is excited",
+        ),
+    ),
+    (
+        PopupMessage("Translate this Xhosa phrase to english", "Ubusika bufikile"),
+        PopupMessage(
+            "Translate this Xhosa phrase to english",
+            "Ubusika bufikile\nWinter is here / has arrived",
+        ),
+    ),
 )
